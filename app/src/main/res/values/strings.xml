@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Php Mysql CRUD</string>
+
+    <array name="genres">
+        <item>Fiction</item>
+        <item>Non-fiction</item>
+        <item>Romance Novel</item>
+        <item>Self-help</item>
+        <item>Commic book</item>
+    </array>
+
+</resources>
